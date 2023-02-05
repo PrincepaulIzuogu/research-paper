@@ -24,11 +24,19 @@ Digital healthcare-related investments have also seen an increase since March 20
 
 ### BENEFITS OF DIGITAL HEALTHCARE DURING COVID_19 PANDEMIC
 The benefits of digital healthcare in regards to COVID-19 include faster diagnosis and contact tracing, enhanced communication between healthcare providers, patients, and families, improved remote care for those with limited access to health services, the ability to quickly deploy screening and monitoring technologies, and increased access to medical advice. Digital healthcare technologies can also help to reduce the burden on overburdened healthcare systems, as well as increase the accuracy and speed of public health interventions. "The use of digital healthcare platforms during the Covid-19 pandemic can enhance the safety of healthcare consumers because it reduces infection rates using digital meeting tools such as Zoom"(Fawaz,2021,para 20).
+
+
+
+
 The use of digital health technologies is becoming increasingly popular in hospitals, pharmacies, clinics, doctor's offices and other healthcare institutions. These technologies allow access to real-time medical information, making diagnosis and treatment easier and faster. The use of artificial intelligence (AI) and machine learning can help improve accuracy and efficiency in diagnosing COVID_19 or providing treatment plans. Big data analytics can also be used to gain insights into COVID_19 trends and to identify high-risk patient populations.
 
 
 #### CHALLENGES FOR DIGITAL HEALTHCARE WIDESPREAD ADOPTION
 Some of the challenges that must be addressed in order for digital healthcare to become more widespread include issues related to data privacy and security, the need for user-friendly interfaces, interoperability between systems, and the availability of reliable internet connections. There is also a need to ensure that medical professionals are appropriately trained and certified to use digital healthcare systems. Furthermore, digital healthcare solutions should also be rigorously tested and proven to be effective before being deployed.
+
+
+![0212_NPHA-telehealth_03-web](https://user-images.githubusercontent.com/123191250/216833645-f7a8672e-bc94-4dff-95fd-ac4fe3e70a47.png)
+
  Moreover, there is a need to develop appropriate regulatory frameworks that ensure that digital healthcare solutions are safe and effective. 
  
 ##### OVERALL DISCUSSION 
