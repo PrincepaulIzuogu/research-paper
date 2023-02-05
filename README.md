@@ -54,3 +54,10 @@ Some of the challenges that must be addressed in order for digital healthcare to
 ##### OVERALL DISCUSSION 
 Though there is no guarantee that digital healthcare will be adopted on a large scale due to the pandemic, it is clear that the current situation has undoubtedly affected the digital healthcare revolution by pushing providers to improve their technological capabilities and think more creatively about how they can provide adequate care remotely.
 It remains to be seen whether COVID-19 will truly jumpstart the digital healthcare revolution. While it has certainly accelerated the adoption of digital solutions, many of the aforementioned obstacles still remain in place. Going forward, it will be important to create an enabling environment that ensures that digital healthcare can reach its full potential and continue to play an important role in providing quality patient care.
+
+######  REFERENCE
+ Kara.G.(2020):Telehealth visits have skyrocketed for older adults, but some concerns & barriers remain:Institute for Healthcare Policy & Innovation. https://ihpi.umich.edu/news/poll-telehealth-visits-have-skyrocketed-older-adults-some-concerns-barriers-remain
+ 
+ Elizabeth.c.(2021):Why COVID-19 Vaccine Research Remains Critical:University of Kentuckey. http://uknow.uky.edu/research/why-covid-19-vaccine-research-remains-critical
+ 
+ Bartalan.M.(2019):Digital Health Research:The Medical Futurist. https://medicalfuturist.com/research/
