@@ -1,4 +1,4 @@
-# <p><green> Will COVID_19 JUMPSTART THE DIGITAL HEALTHCARE REVOLUTION?</green></p> 
+# Will COVID_19 JUMPSTART THE DIGITAL HEALTHCARE REVOLUTION? 
 **Abstract:**    
 I examined multiple sources from the internet to discuss the effect of the COVID_19 pandemic on the digital healthcare revolution.
 
@@ -16,6 +16,8 @@ I gathered this information by researching multiple sources on the internet, add
 The effect of COVID_19 on digital health has caused unpredicted disruption. "It has increased public awareness of digital healthcare, demonstrate medical value and pressure the healthcare budget"(Thomas et al.,2019, para 6). Health providers have turned to digital solutions and embraced technologies like telemedicine and remote care. This shift has positioned digital healthcare as one of the few viable options for providing patient care in the midst of the crisis. The adoption of digital healthcare by health systems and practitioners offers many advantages over traditional methods. It allows for more efficient and cost-effective care delivery, and also provides wider access to services for patients who may not be able to travel or are isolated due to regulations related to the virus. Furthermore, it eliminates the need for physical contact, making it much safer for both patients and practitioners during a time of social distancing.
 Digital health technologies are not only making it easier for providers to deliver care, but they are also helping patients take a more active role in their own healthcare. 
 
+**Figure 1**                                                                                                                                                        
+**UK vaccine researcher Jerry Woodward weighs in on why research remains critical even as first COVID-19 vaccines released**.
 
 Through health app usage and wearable devices, patients can easily track their own physical activity, biometrics, exercise, diet and more. This data can then be used to identify potential problems early and provide personalized feedback on how to best manage their health. 
 Telemedicine has seen significant growth over the last year due to the COVID-19 pandemic. It allows patients to access healthcare remotely, which reduces the risk of exposure to the virus and allows for continuity of care during lockdown periods. Telemedicine also enables increased access to healthcare services in rural and underserved communities, as well as providing many medical services that would otherwise be unavailable or cost prohibitive. However, there are still challenges to overcome, such as data security and privacy, lack of reimbursement for telemedicine services, and inadequate infrastructure in some areas. Despite its limitations, digital healthcare has already proven to be an invaluable tool in helping people stay healthy and receive care during one of the most difficult medical crises in history.
