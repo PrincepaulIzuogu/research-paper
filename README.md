@@ -1,4 +1,4 @@
-# ```<span style="color:red">Will COVID_19 JUMPSTART THE DIGITAL HEALTHCARE REVOLUTION? </span>```. 
+# <span style="color:red">Will COVID_19 JUMPSTART THE DIGITAL HEALTHCARE REVOLUTION? </span> 
 Abstract:  
 I examined multiple sources from the internet to discuss the effect of the COVID_19 pandemic on the digital healthcare revolution.
 
