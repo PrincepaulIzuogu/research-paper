@@ -23,7 +23,6 @@ Digital health technologies are not only making it easier for providers to deliv
 
 **Note**: UK vaccine researcher Jerry Woodward weighs in on why research remains critical even as first COVID-19 vaccines released.**Photo by Ben Corwin,n.d.**
 
-Through health app usage and wearable devices, patients can easily track their own physical activity, biometrics, exercise, diet and more. This data can then be used to identify potential problems early and provide personalized feedback on how to best manage their health. 
 Telemedicine has seen significant growth over the last year due to the COVID-19 pandemic. It allows patients to access healthcare remotely, which reduces the risk of exposure to the virus and allows for continuity of care during lockdown periods. Telemedicine also enables increased access to healthcare services in rural and underserved communities, as well as providing many medical services that would otherwise be unavailable or cost prohibitive.
 
 
@@ -37,12 +36,10 @@ The benefits of digital healthcare in regards to COVID-19 include faster diagnos
 
 In our infographic, listed on the Y-axis are the technologies making a significant impact in the fight against the pandemic. Indicated with dots on the X-axis are all the fields that the respective technology supports from diagnosis through staff training to information provision.
 
-The use of digital health technologies is becoming increasingly popular in hospitals, pharmacies, clinics, doctor's offices and other healthcare institutions. These technologies allow access to real-time medical information, making diagnosis and treatment easier and faster. The use of artificial intelligence (AI) and machine learning can help improve accuracy and efficiency in diagnosing COVID_19 or providing treatment plans. Big data analytics can also be used to gain insights into COVID_19 trends and to identify high-risk patient populations.
-
+The use of digital health technologies is becoming increasingly popular in hospitals, pharmacies, clinics, doctor's offices and other healthcare institutions. These technologies allow access to real-time medical information, making diagnosis and treatment easier and faster.
 
 #### CHALLENGES FOR DIGITAL HEALTHCARE WIDESPREAD ADOPTION
-Some of the challenges that must be addressed in order for digital healthcare to become more widespread include issues related to data privacy and security, the need for user-friendly interfaces, interoperability between systems, and the availability of reliable internet connections. There is also a need to ensure that medical professionals are appropriately trained and certified to use digital healthcare systems. Furthermore, digital healthcare solutions should also be rigorously tested and proven to be effective before being deployed.
-
+Some of the challenges that must be addressed in order for digital healthcare to become more widespread include issues related to data privacy and security, the need for user-friendly interfaces, interoperability between systems, and the availability of reliable internet connections. There is also a need to ensure that medical professionals are appropriately trained and certified to use the digital healthcare systems.
 
 **Figure 3**                                                                                                                                                        
 **COVID-19 impacts**.
@@ -53,7 +50,7 @@ Some of the challenges that must be addressed in order for digital healthcare to
  
 ##### OVERALL DISCUSSION 
 Though there is no guarantee that digital healthcare will be adopted on a large scale due to the pandemic, it is clear that the current situation has undoubtedly affected the digital healthcare revolution by pushing providers to improve their technological capabilities and think more creatively about how they can provide adequate care remotely.
-It remains to be seen whether COVID-19 will truly jumpstart the digital healthcare revolution. While it has certainly accelerated the adoption of digital solutions, many of the aforementioned obstacles still remain in place. Going forward, it will be important to create an enabling environment that ensures that digital healthcare can reach its full potential and continue to play an important role in providing quality patient care.
+COVID-19 has certainly accelerated the adoption of digital solutions, many of the aforementioned obstacles still remain in place. Going forward, it will be important to create an enabling environment that ensures that digital healthcare can reach its full potential and continue to play an important role in providing quality patient care.
 
 ######  REFERENCE
  Kara.G.(2020):Telehealth visits have skyrocketed for older adults, but some concerns & barriers remain:Institute for Healthcare Policy & Innovation. https://ihpi.umich.edu/news/poll-telehealth-visits-have-skyrocketed-older-adults-some-concerns-barriers-remain
