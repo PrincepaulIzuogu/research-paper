@@ -17,7 +17,9 @@ The effect of COVID_19 on digital health has caused unpredicted disruption. "It 
 Digital health technologies are not only making it easier for providers to deliver care, but they are also helping patients take a more active role in their own healthcare. 
 
 **Figure 1**                                                                                                                                                        
-**UK vaccine researcher Jerry Woodward weighs in on why research remains critical even as first COVID-19 vaccines released**.
+**The research of COVID_19 vaccines**.
+![200428JerryWoodward04](https://user-images.githubusercontent.com/123191250/216840108-45e7bcdb-81c6-48c5-b7c4-7f9fa82ee7d5.jpeg)
+**Note**: UK vaccine researcher Jerry Woodward weighs in on why research remains critical even as first COVID-19 vaccines released.**Photo by Ben Corwin,n.d.**
 
 Through health app usage and wearable devices, patients can easily track their own physical activity, biometrics, exercise, diet and more. This data can then be used to identify potential problems early and provide personalized feedback on how to best manage their health. 
 Telemedicine has seen significant growth over the last year due to the COVID-19 pandemic. It allows patients to access healthcare remotely, which reduces the risk of exposure to the virus and allows for continuity of care during lockdown periods. Telemedicine also enables increased access to healthcare services in rural and underserved communities, as well as providing many medical services that would otherwise be unavailable or cost prohibitive. However, there are still challenges to overcome, such as data security and privacy, lack of reimbursement for telemedicine services, and inadequate infrastructure in some areas. Despite its limitations, digital healthcare has already proven to be an invaluable tool in helping people stay healthy and receive care during one of the most difficult medical crises in history.
@@ -27,8 +29,12 @@ Digital healthcare-related investments have also seen an increase since March 20
 ### BENEFITS OF DIGITAL HEALTHCARE DURING COVID_19 PANDEMIC
 The benefits of digital healthcare in regards to COVID-19 include faster diagnosis and contact tracing, enhanced communication between healthcare providers, patients, and families, improved remote care for those with limited access to health services, the ability to quickly deploy screening and monitoring technologies, and increased access to medical advice. Digital healthcare technologies can also help to reduce the burden on overburdened healthcare systems, as well as increase the accuracy and speed of public health interventions. "The use of digital healthcare platforms during the Covid-19 pandemic can enhance the safety of healthcare consumers because it reduces infection rates using digital meeting tools such as Zoom"(Fawaz,2021,para 20).
 
-
+**Figure 2**                                                                                                                                                        
+**Digital Health Technologies in the Fight Against COVID-19**.
 ![COVID-19-Digital-Health](https://user-images.githubusercontent.com/123191250/216839898-d689bfe8-669a-4b9a-bb22-80a853af91cc.jpeg)
+**Note**: According to the medical forist article (n.d.),They created an infographic to summarize all the digital health tech efforts against the COVID-19 pandemic.In their infographic, listed on the Y-axis are the technologies making a significant impact in the fight against the pandemic. Indicated with dots on the X-axis are all the fields that the respective technology supports from diagnosis through staff training to information provision.**Figure from Bertalan,n.d.**
+
+In our infographic, listed on the Y-axis are the technologies making a significant impact in the fight against the pandemic. Indicated with dots on the X-axis are all the fields that the respective technology supports from diagnosis through staff training to information provision.
 
 The use of digital health technologies is becoming increasingly popular in hospitals, pharmacies, clinics, doctor's offices and other healthcare institutions. These technologies allow access to real-time medical information, making diagnosis and treatment easier and faster. The use of artificial intelligence (AI) and machine learning can help improve accuracy and efficiency in diagnosing COVID_19 or providing treatment plans. Big data analytics can also be used to gain insights into COVID_19 trends and to identify high-risk patient populations.
 
@@ -37,7 +43,10 @@ The use of digital health technologies is becoming increasingly popular in hospi
 Some of the challenges that must be addressed in order for digital healthcare to become more widespread include issues related to data privacy and security, the need for user-friendly interfaces, interoperability between systems, and the availability of reliable internet connections. There is also a need to ensure that medical professionals are appropriately trained and certified to use digital healthcare systems. Furthermore, digital healthcare solutions should also be rigorously tested and proven to be effective before being deployed.
 
 
+**Figure 3**                                                                                                                                                        
+**COVID-19 impacts**.
 ![0212_NPHA-telehealth_03-web](https://user-images.githubusercontent.com/123191250/216833645-f7a8672e-bc94-4dff-95fd-ac4fe3e70a47.png)
+**Note**:  This pool suggest that older adults barely participated in a telehealth visit by June 2020.**Figure by Kara,2020**.
 
  Moreover, there is a need to develop appropriate regulatory frameworks that ensure that digital healthcare solutions are safe and effective. 
  
