@@ -1,15 +1,15 @@
-# Will COVID_19 JUMPSTART THE DIGITAL HEALTHCARE REVOLUTION? 
-Abstract:
+# ```<span style="color:red">Will COVID_19 JUMPSTART THE DIGITAL HEALTHCARE REVOLUTION? </span>```. 
+Abstract:  
 I examined multiple sources from the internet to discuss the effect of the COVID_19 pandemic on the digital healthcare revolution.
 
-Introduction:
+Introduction:  
 "Digital health means the use of digital technologies to improve health"(Gemma et al.,2022, para 1). Digital healthcare platform are transforming conventional changes which creates beneficial improvements  to both the citizen and government provision to society.
 COVID-19 has had a serious effect at the healthcare industry, forcing a shift closer to virtual possibilities like telemedicine. The pandemic has created an environment in which the use of digital tools in healthcare is encouraged, accelerating the adoption and implementation of digital healthcare solutions.
 
-Objective:
+Objective:  
 This report explores the capability for the virus to jumpstart the virtual healthcare revolution and the possibilities this presents, the benefit of digital healthcare platforms during the COVID_19 pandemic, the factors that are negatively affecting the digital healthcare to become a widespread and the overall discussion.
 
-Method: 
+Method:   
 I gathered this information by researching multiple sources on the internet, added together with my knowledge on digital health and the COVID_19 pandemic, then I analysed these information I gathered. 
 
 ## Will COVID_19 JUMPSTART THE DIGITAL HEALTHCARE REVOLUTION? (TELEMEDICINE) 
