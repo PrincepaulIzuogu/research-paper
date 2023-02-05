@@ -20,6 +20,7 @@ Digital health technologies are not only making it easier for providers to deliv
 **The research of COVID_19 vaccines**. 
 
 ![200428JerryWoodward04](https://user-images.githubusercontent.com/123191250/216840108-45e7bcdb-81c6-48c5-b7c4-7f9fa82ee7d5.jpeg)
+
 **Note**: UK vaccine researcher Jerry Woodward weighs in on why research remains critical even as first COVID-19 vaccines released.**Photo by Ben Corwin,n.d.**
 
 Through health app usage and wearable devices, patients can easily track their own physical activity, biometrics, exercise, diet and more. This data can then be used to identify potential problems early and provide personalized feedback on how to best manage their health. 
