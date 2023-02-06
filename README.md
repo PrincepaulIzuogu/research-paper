@@ -14,11 +14,8 @@ I gathered this information by researching multiple sources on the internet, add
 
 ## 🔷Will COVID_19 JUMPSTART THE DIGITAL HEALTHCARE REVOLUTION? (TELEMEDICINE) 
 The effect of COVID_19 on digital health has caused unpredicted disruption. "It has increased public awareness of digital healthcare, demonstrate medical value and pressure the healthcare budget"(Thomas et al.,2019, para 6). Health providers have turned to digital solutions and embraced technologies like telemedicine and remote care. This shift has positioned digital healthcare as one of the few viable options for providing patient care in the midst of the crisis.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tGbkEvK58G0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 The adoption of digital healthcare by health systems and practitioners offers many advantages over traditional methods. It allows for more efficient and cost-effective care delivery, and also provides wider access to services for patients who may not be able to travel or are isolated due to regulations related to the virus. Furthermore, it eliminates the need for physical contact, making it much safer for both patients and practitioners during a time of social distancing.
-Digital health technologies are not only making it easier for providers to deliver care, but they are also helping patients take a more active role in their own healthcare. 
+ 
 
 **🔘Figure 1**                                                                                                                                                        
 **◻️◻️The research of COVID_19 vaccines◻️◻️**. 
@@ -55,6 +52,7 @@ Some of the challenges that must be addressed in order for digital healthcare to
 ##### 🔷OVERALL DISCUSSION 
 Though there is no guarantee that digital healthcare will be adopted on a large scale due to the pandemic, it is clear that the current situation has undoubtedly affected the digital healthcare revolution by pushing providers to improve their technological capabilities and think more creatively about how they can provide adequate care remotely.
 COVID-19 has certainly accelerated the adoption of digital solutions, many of the aforementioned obstacles still remain in place. Going forward, it will be important to create an enabling environment that ensures that digital healthcare can reach its full potential and continue to play an important role in providing quality patient care.
+
 
 ######  🔷REFERENCE
  🔸Kara.G.(2020):Telehealth visits have skyrocketed for older adults, but some concerns & barriers remain:Institute for Healthcare Policy & Innovation. https://ihpi.umich.edu/news/poll-telehealth-visits-have-skyrocketed-older-adults-some-concerns-barriers-remain
