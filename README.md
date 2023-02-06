@@ -58,3 +58,5 @@ COVID-19 has certainly accelerated the adoption of digital solutions, many of th
  Elizabeth.c.(2021):Why COVID-19 Vaccine Research Remains Critical:University of Kentuckey. http://uknow.uky.edu/research/why-covid-19-vaccine-research-remains-critical
  
  Bartalan.M.(2019):Digital Health Research:The Medical Futurist. https://medicalfuturist.com/research/
+ 
+ Thomas.s.(n.d.):PricewaterhouseCoopers:Digital Healthcare.PwC. https://www.strategyand.pwc.com/de/en/industries/health/digital-healthcare.html
