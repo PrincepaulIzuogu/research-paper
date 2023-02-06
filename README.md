@@ -1,5 +1,5 @@
 # 🔷Will COVID_19 JUMPSTART THE DIGITAL HEALTHCARE REVOLUTION? 
-**Abstract:**    
+**🔸Abstract:**    
 I examined multiple sources from the internet to discuss the effect of the COVID_19 pandemic on the digital healthcare revolution.
 
 **🔸Introduction:**    
