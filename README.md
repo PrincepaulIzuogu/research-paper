@@ -14,7 +14,8 @@ I gathered this information by researching multiple sources on the internet, add
 
 ## 🔷Will COVID_19 JUMPSTART THE DIGITAL HEALTHCARE REVOLUTION? (TELEMEDICINE) 
 The effect of COVID_19 on digital health has caused unpredicted disruption. "It has increased public awareness of digital healthcare, demonstrate medical value and pressure the healthcare budget"(Thomas et al.,2019, para 6). Health providers have turned to digital solutions and embraced technologies like telemedicine and remote care. This shift has positioned digital healthcare as one of the few viable options for providing patient care in the midst of the crisis.
-The adoption of digital healthcare by health systems and practitioners offers many advantages over traditional methods. It allows for more efficient and cost-effective care delivery, and also provides wider access to services for patients who may not be able to travel or are isolated due to regulations related to the virus. Furthermore, it eliminates the need for physical contact, making it much safer for both patients and practitioners during a time of social distancing.
+The adoption of digital healthcare by health systems and practitioners offers many advantages over traditional methods. It allows for more efficient and cost-effective care delivery, and also provides wider access to services for patients who may not be able to travel or are isolated due to regulations related to the virus. Furthermore, it eliminates the need for physical contact, making it much safer for both patients and practitioners during a time of social distancing. Digital health technologies are not only making it easier for providers to deliver care, but they are also helping patients take a more active role in their own healthcare. 
+
  
 
 **🔘Figure 1**                                                                                                                                                        
